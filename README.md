@@ -1,2 +1,2 @@
 # spam-lists
-list of all spam mailing lists I come across, pull requests welcome
+list of all spam mailing lists & emails I come across, pull requests welcome
