@@ -8,10 +8,12 @@ Joan@fol.zebratas.cfd
 
 # [d2] domain info for (giftsallaround.com):
 # known subdomains: (cruz)
-
-# origionated as an email with the subject line: ()
 mc.us3_45093660.45093660-8lz88sxvmo@cruz.giftsallaround.com
 
 # [d3] domain info for (e-konto.net): 
 # known subdomains: ()
 xHqVE@e-konto.net
+
+# [d3] domain info for (centrodiagnosticogamma.it): 
+# known subdomains: ()
+DFKINW@centrodiagnosticogamma.it
