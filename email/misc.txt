@@ -14,6 +14,10 @@ mc.us3_45093660.45093660-8lz88sxvmo@cruz.giftsallaround.com
 # known subdomains: ()
 xHqVE@e-konto.net
 
-# [d3] domain info for (centrodiagnosticogamma.it): 
+# [d4] domain info for (centrodiagnosticogamma.it): 
 # known subdomains: ()
 DFKINW@centrodiagnosticogamma.it
+
+# [d5] domain info for (accor-mail.com): 
+# known subdomains: (confirmation)
+all@confirmation.accor-mail.com
