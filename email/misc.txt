@@ -2,39 +2,46 @@
 
 
 # [d1] domain info for (zebratas.cfd):
+# domain status: Active
 # known subdomains: (fol)
 Joan@fol.zebratas.cfd
 
 
 # [d2] domain info for (giftsallaround.com):
+# domain status: Active
 # known subdomains: (cruz)
 mc.us3_45093660.45093660-8lz88sxvmo@cruz.giftsallaround.com
 
 
 # [d3] domain info for (e-konto.net): 
+# domain status: Active
 # known subdomains: ()
 # asociated websites linked inside emails: (http://wieldtribulation.com/)
 xHqVE@e-konto.net
 
 
 # [d4] domain info for (centrodiagnosticogamma.it): 
+# domain status: Active
 # known subdomains: ()
 # asociated websites linked inside emails: (http://stagnantinlet.com/)
 DFKINW@centrodiagnosticogamma.it
 
 
 # [d5] domain info for (accor-mail.com): 
+# domain status: Active
 # known subdomains: (confirmation, secure, help)
 all@confirmation.accor-mail.com
 
 
 # [d6] domain info for (bilgiarsiv.com): 
+# domain status: Inactive
 # known subdomains: ()
 # asociated websites linked inside emails: (https://pescaperch.com/)
 anorveswieter@bilgiarsiv.com
 
 
 # [d7] domain info for (memorizenumbers.org): 
+# domain status: Active
 # known subdomains: ()
 # nameservers pointing to: (seasoningsclientele.com | ns1, ns2)
 # asociated websites linked inside emails: (http://physicalness.xyz/)
@@ -42,6 +49,7 @@ jmfsk@memorizenumbers.org
 
 
 # [d8] domain info for (ourbombayrice.com): 
+# domain status: Active
 # known subdomains: ()
 # nameservers pointing to: (crystalregistry.com | ns11, ns12)
 # asociated websites linked inside emails: (https://jaliscorest.com/)
@@ -49,17 +57,27 @@ calsyngrato@ourbombayrice.com
 
 
 # [d9] domain info for (accounts-security.com): 
+# domain status: Inactive
 # known subdomains: ()
 # nameservers pointing to: ()
 # asociated websites linked inside emails: ()
-# asociated email assresses linked inside emails: (chaggori@gmail.com)
+# asociated email addresses linked inside emails: (chaggori@gmail.com)
 no-reply@accounts-security.com
 
 
 # [d10] domain info for (hmsschd.com): 
+# domain status: Inactive
 # known subdomains: ()
 # nameservers pointing to: (suspended-domain.com | ns1, ns2)
 # asociated websites linked inside emails: ()
-# asociated email assresses linked inside emails: (hmsschd.com@nomorethis.cyou)
+# asociated email addresses linked inside emails: (hmsschd.com@nomorethis.cyou)
 RuthAnderson@hmsschd.com
 
+
+# [d10] domain info for (pidvjkhintusgymajall.com): 
+# domain status: Inactive
+# known subdomains: ()
+# nameservers pointing to: ()
+# asociated websites linked inside emails: ()
+# asociated email addresses linked inside emails: ()
+rprqpissitsf@pidvjkhintusgymajall.com
