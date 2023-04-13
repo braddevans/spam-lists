@@ -1,0 +1,10 @@
+# link spam emails
+# notes: domain url dots `.` are replaced with `^` to stop people accidentaly going to those links
+
+# email info for (martinnaoky@yahoo.com): 
+# known aditional emails: (rocdg78@gmail.com)
+# linked sites:
+# redirect chains: (https://bit^ly/413iyTa, https://i35xr^app^link/CUJ87jhKNyb) -> 
+# final result url: (http://2l1mpw^sufferorganisation^co^in/34546de4235m342356?utm_medium=marketing&_branch_match_id=1175100974242462843&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXzzQ2rSjSSywo0MvJzMvWdw71sjDPyvD2q0wCAPV1gkAiAAAA)
+martinnaoky@yahoo.com
+
