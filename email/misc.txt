@@ -54,3 +54,12 @@ calsyngrato@ourbombayrice.com
 # asociated websites linked inside emails: ()
 # asociated email assresses linked inside emails: (chaggori@gmail.com)
 no-reply@accounts-security.com
+
+
+# [d10] domain info for (hmsschd.com): 
+# known subdomains: ()
+# nameservers pointing to: (suspended-domain.com | ns1, ns2)
+# asociated websites linked inside emails: ()
+# asociated email assresses linked inside emails: (hmsschd.com@nomorethis.cyou)
+RuthAnderson@hmsschd.com
+
