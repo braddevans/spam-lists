@@ -21,7 +21,7 @@ xHqVE@e-konto.net
 DFKINW@centrodiagnosticogamma.it
 
 # [d5] domain info for (accor-mail.com): 
-# known subdomains: (confirmation)
+# known subdomains: (confirmation, secure, help)
 all@confirmation.accor-mail.com
 
 
