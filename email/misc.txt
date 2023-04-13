@@ -46,3 +46,10 @@ jmfsk@memorizenumbers.org
 # nameservers pointing to: (crystalregistry.com | ns11, ns12)
 # asociated websites linked inside emails: (https://jaliscorest.com/)
 calsyngrato@ourbombayrice.com
+
+# [d9] domain info for (accounts-security.com): 
+# known subdomains: ()
+# nameservers pointing to: ()
+# asociated websites linked inside emails: ()
+# asociated email assresses linked inside emails: (chaggori@gmail.com)
+no-reply@accounts-security.com
