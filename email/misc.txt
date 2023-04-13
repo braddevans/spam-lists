@@ -17,6 +17,7 @@ xHqVE@e-konto.net
 
 # [d4] domain info for (centrodiagnosticogamma.it): 
 # known subdomains: ()
+# asociated websites linked inside emails: (http://stagnantinlet.com/)
 DFKINW@centrodiagnosticogamma.it
 
 # [d5] domain info for (accor-mail.com): 
