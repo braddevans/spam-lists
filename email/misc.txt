@@ -10,15 +10,18 @@ Joan@fol.zebratas.cfd
 # known subdomains: (cruz)
 mc.us3_45093660.45093660-8lz88sxvmo@cruz.giftsallaround.com
 
+
 # [d3] domain info for (e-konto.net): 
 # known subdomains: ()
 # asociated websites linked inside emails: (http://wieldtribulation.com/)
 xHqVE@e-konto.net
 
+
 # [d4] domain info for (centrodiagnosticogamma.it): 
 # known subdomains: ()
 # asociated websites linked inside emails: (http://stagnantinlet.com/)
 DFKINW@centrodiagnosticogamma.it
+
 
 # [d5] domain info for (accor-mail.com): 
 # known subdomains: (confirmation, secure, help)
@@ -29,3 +32,16 @@ all@confirmation.accor-mail.com
 # known subdomains: ()
 # asociated websites linked inside emails: (https://pescaperch.com/)
 anorveswieter@bilgiarsiv.com
+
+
+# [d7] domain info for (memorizenumbers.org): 
+# known subdomains: ()
+# nameservers pointing to: (seasoningsclientele.com | ns1, ns2)
+# asociated websites linked inside emails: (http://physicalness.xyz/)
+jmfsk@memorizenumbers.org
+
+# [d8] domain info for (ourbombayrice.com): 
+# known subdomains: ()
+# nameservers pointing to: (crystalregistry.com | ns11, ns12)
+# asociated websites linked inside emails: (https://jaliscorest.com/)
+calsyngrato@ourbombayrice.com
