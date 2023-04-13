@@ -21,3 +21,9 @@ DFKINW@centrodiagnosticogamma.it
 # [d5] domain info for (accor-mail.com): 
 # known subdomains: (confirmation)
 all@confirmation.accor-mail.com
+
+
+# [d6] domain info for (bilgiarsiv.com): 
+# known subdomains: ()
+# asociated websites linked inside emails: (https://pescaperch.com/)
+anorveswieter@bilgiarsiv.com
